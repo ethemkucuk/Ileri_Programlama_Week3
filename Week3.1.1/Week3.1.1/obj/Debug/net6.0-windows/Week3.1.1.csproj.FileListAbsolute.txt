@@ -1,0 +1,17 @@
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\bin\Debug\net6.0-windows\Week3.1.1.exe
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\bin\Debug\net6.0-windows\Week3.1.1.deps.json
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\bin\Debug\net6.0-windows\Week3.1.1.runtimeconfig.json
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\bin\Debug\net6.0-windows\Week3.1.1.dll
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\bin\Debug\net6.0-windows\Week3.1.1.pdb
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3._1._1.Form1.resources
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.AssemblyInfo.cs
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.dll
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\refint\Week3.1.1.dll
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.pdb
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\Week3.1.1.genruntimeconfig.cache
+C:\Users\Student\Desktop\Week3.1.1\Week3.1.1\obj\Debug\net6.0-windows\ref\Week3.1.1.dll
